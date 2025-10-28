@@ -1,0 +1,60 @@
+body{
+            font-family: Tahoma;
+        }
+        header{
+            background-color: #519657;
+            height: 150px;
+            color: white;
+        }
+        #gora2{
+            position: absolute;
+            top: 7px;
+            right: 80px;
+        }
+        #a{
+            width: 150px;
+            height: 150px;
+        }
+        #lewy{
+            background-color: #E1E1E1;
+            width: 25%;
+            height: 450px;
+            float: left;
+
+        }
+        #srodkowy{
+            background-color: #E1E1E1;
+            width: 50%;
+            height: 450px;
+            float: left;
+
+        }
+        #prawy{
+            background-color: #E1E1E1;
+            width: 25%;
+            height: 450px;
+            float: left;
+
+        }
+        #aba{
+            width: 100%;
+            margin-top: 100px;
+            margin-bottom: 100px;
+            margin-left: 0px;
+            margin-right: 0px;
+        }
+        #abababa{
+            background-color: #80C683;
+            border: solid 1px;
+            padding: 2px;
+        }
+        #czerwony {
+            background-color: red;
+        }
+        table tr :hover{
+            background-color: red;
+        }
+
+        footer{
+            background-color: #80C683;
+        }
